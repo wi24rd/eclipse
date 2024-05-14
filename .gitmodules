@@ -1,0 +1,3 @@
+[submodule "eclipse-cmakeed"]
+	path = eclipse-cmakeed
+	url = git@github.com:wi24rd/eclipse-cmakeed.git
